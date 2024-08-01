@@ -24,14 +24,3 @@ Education:
 * [my-external-links (web component)](https://github.com/Essential-Component-Toolbox/my-external-links)
   * [my-external-links: Demo](https://my-external-links-demo.vercel.app/)
   * [my-external-links: NPM](https://www.npmjs.com/package/@essential-component-toolbox/my-external-links)
-
----
-
-## Skills
-* Web Development
-  * HTML
-  * CSS
-  * JavaScript (Lit Framework)
-* Git / GitHub
-* Computer Hardware & Configuration
-* Windows, macOS, Linux, Android
