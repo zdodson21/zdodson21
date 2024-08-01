@@ -2,15 +2,36 @@
 
 ---
 
-## I Am Currently Working On The Following Projects:
+## About Me:
+[LinkedIn](https://www.linkedin.com/in/zach-dodson-psu/)
 
-* [HAXTheWeb](https://github.com/zdodson21/lrnwebcomponents)
- 
-* [Personal Portfolio themed around operating systems and their interfaces]()
+Experience:
+* HAXTheWeb / Penn State University: College of Arts and Architecture
+  * Developed [`chat-agent.js`](https://github.com/haxtheweb/webcomponents/tree/master/elements/chat-agent) component using the [Lit framework](https://lit.dev/)
+
+Education:
+* Penn State University
+  * **(B.S.)** Enterprise Technology Integration (College of Information Sciences and Technology)
+  * **Minor:** Information Sciences and Technology (College of Information Sciences and Technology)
+  * **Certification:** Business Fundamentals *(Smeal College of Business)* 
 
 ---
 
-## Projects / Technologies I Would Like to Try
+## Projects I Have Contributed To:
 
-* Creating a video game utilizing the Godot engine. Would also be able to learn numerous other skills, such as graphic design (pixel art), music composition, GDScript, possibly C#, and more.
-* Create a personal portfolio, which would teach me how to utilize a bundler to allow web components to be developed and rendered properly within my own portfolio website.
+* [HAXTheWeb](https://github.com/zdodson21/haxtheweb)
+* [scripts: My personal collection of scripts written in a variety of languages](https://github.com/zdodson21/scripts)
+* [my-external-links (web component)](https://github.com/Essential-Component-Toolbox/my-external-links)
+  * [my-external-links: Demo](https://my-external-links-demo.vercel.app/)
+  * [my-external-links: NPM](https://www.npmjs.com/package/@essential-component-toolbox/my-external-links)
+
+---
+
+## Skills
+* Web Development
+  * HTML
+  * CSS
+  * JavaScript (Lit Framework)
+* Git / GitHub
+* Computer Hardware & Configuration
+* Windows, macOS, Linux, Android
