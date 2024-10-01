@@ -25,3 +25,9 @@ Education:
 * [my-external-links (web component)](https://github.com/Essential-Component-Toolbox/my-external-links)
   * [my-external-links: Demo](https://my-external-links-demo.vercel.app/)
   * [my-external-links: NPM](https://www.npmjs.com/package/@essential-component-toolbox/my-external-links)
+
+---
+
+## Guides:
+
+* [How to use HAX CLI on Windows using Command Prompt](https://gist.github.com/zdodson21/e9e92797787e80a03b0614da55fecd06)
