@@ -2,6 +2,9 @@
 
 ---
 
+## Gists URL:
+[View my Gists](https://gist.github.com/zdodson21)
+
 ## About Me:
 [LinkedIn](https://www.linkedin.com/in/zach-dodson-psu/)  
 [Tools I Can Use](https://gist.github.com/zdodson21/1b87a7149772c7e87d59cc22bc127649)
