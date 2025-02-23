@@ -1,4 +1,2 @@
-# Hi! I'm Zach
+# Welcome to my Profile
 [Gists](https://gist.github.com/zdodson21)
-
-## Gists URL:
