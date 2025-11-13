@@ -14,9 +14,7 @@ Please visit my [website](https://zachdodson.me/programs?internet-explorer=about
 ## 🛠️ Languages and Tools
 
 <!-- Lit, Vercel -->
-### Languages
-
-#### Proficient
+### Programming
 
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
