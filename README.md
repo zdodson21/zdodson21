@@ -37,3 +37,5 @@ Please visit my [website](https://zachdodson.me/programs?internet-explorer=about
 <img align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-plain.svg" />
           
 <br>
+
+<!-- Layout inspired by Forrestknight's readme -->
