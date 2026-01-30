@@ -1,6 +1,6 @@
 # 🎨 Zach Dodson
 
-**`Software Developer & Creator`**
+**`Software Developer | Creator`**
 
 I'm a software developer and maker who works across full-stack development, with a particular strength in frond-end engineering. I build tools and applications that solve problems I encounter.
 
